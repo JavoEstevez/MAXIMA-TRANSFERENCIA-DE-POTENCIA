@@ -51,42 +51,6 @@ Circuito Eléctrico hecho en Tinkercad
 
 Fig 3. Implementación del circuito eléctrico en el simulador Tinkercad
 
-Circuito Eléctrico hecho en Tinkercad
-
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_voltaje.png)
-
-Fig 4. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de voltaje en el resitor de carga
-
-Circuito Eléctrico hecho en Tinkercad 
-
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_corriente.png)
-
-Fig 5. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de corriente en el resitor de carga
-
-Circuito Eléctrico hecho en Tinkercad 
-
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_voltaje_sin_R5.png)
-
-Fig 6. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de voltaje en el circuito abierto
-
-Circuito Eléctrico hecho en Tinkercad 
-
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_resistencia_sin_R5.png)
-
-Fig 7. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de la resistencia equivalente
-
-Circuito equivalente de Thévenin hecho en Tinkercad 
-
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_Thevenin_voltaje.png)
-
-Fig 8. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de voltaje en el circuito equivalente de Thévenin
-
-Circuito equivalente de Thévenin hecho en Tinkercad 
-
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_Thevenin_corriente.png)
-
-Fig 9. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de corriente en el circuito equivalente de Thévenin
-
 5. LISTAS DE COMPONENTES
 
 ![](https://github.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/blob/master/Img/COMPONENTES.jpg)
@@ -138,23 +102,9 @@ Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
 9. CONCLUSIONES 
 
-* Se concluye que este teorema se puede aplicar a cualquier circuito lineal el cual posea por lo menos una fuente independiente, ya sea de corriente o de voltaje, para reemplazarlo con un circuito equivalente de THÉVENIN mucho más sencillo. 
-
-* En nuestro circuito equivalente los valores de voltaje y corriente en nuestra resistencia R5 van a tener un pequeño error a comparación del circuito original de dos fuentes, debido a los cálculos que requieren una fuente de 5.055V y una resistencia de 298Ohm, que no se pueden colocar en el simulador. Los valores mas cercanos a ingresar fueron de 5V y 300Ohms, provocando este error de medida. 
-
-* Con este teorema podemos representar circuitos un poco largo de una manera facil y con un cirucito muy sencillo, aprendiendo que los circuitos pueden tener los mismos valores pero con una divercidad de elementos. Los cálculos se hacen con la finalidad de poder sustituir todas las fuentes de corrientes o voltajes del circuito por única fuente con el valor de Thévenin en serie con la rsistencia calculada de Thévenin, aparte se vuelven mas didácticos 
-
-* El porcentaje error nos demuestra que el informe se ha desarrollado de manera correcta y este caso nos da un porcentaje de error entre 0 y 1.04 de error entre el calculado y el medido, el cual es un porcentaje bajo y no afecta a los resultados, esto debido también a que no sabemos con cuantos decimales trabaja el simulador TINKERCAD.
  
 10. RECOMENDACIONES 
 
-* Se recomienda revisar la teoría del teorema de Thévenin para así desarrollar de una manera más rápida el ejercicio propuesto.
-
-* Se recomienda cambiar el color de los cables a rojo y negro para de esta manera identificar cuáles son positivos o negativos, y no crear una confusión al momento de conectar el circuito.
-
-* Tener en cuenta y verificar los valores de la fuente así como también el valor de las resistencias ya que muchas veces se equivoca al poner KOhm o Ohm.
-
-* Recomendamos una vez obtenido el sistema de ecuaciones en cada caso del analisis, utilizar el método de determinantes, ya que es una forma mas dinámica y rapida para poder resolver este tipo ejercicios.
 
 11. CRONOGRAMA
 
