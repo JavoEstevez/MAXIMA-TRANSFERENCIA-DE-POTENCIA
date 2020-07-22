@@ -16,36 +16,20 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 3. MARCO TEÓRICO 
 
-El teorema de Thévenin fue enunciado por primera vez por el científico alemán Hermann von Helmholtz en el año 1853 pero fue redescubierto en 1883 por el ingeniero de telégrafos francés Léon Charles Thévenin (1857–1926), de quien toma su nombre. El teorema de Thévenin es el dual del teorema de Norton.
+En Ingeniería eléctrica y electrónica, el teorema de máxima transferencia de potencia establece que, dada una fuente, con una resistencia de fuente fijada de antemano, la resistencia de carga que maximiza la transferencia de potencia es aquella con un valor óhmico igual a la resistencia de fuente. También este ayuda a encontrar el teorema de Thevenin y Norton.
 
-En la teoría de circuitos eléctricos, el teorema de Thévenin establece que si una parte de un circuito eléctrico lineal está comprendida entre dos terminales A y B, esta parte en cuestión puede sustituirse por un circuito equivalente que esté constituido únicamente por un generador de tensión en serie con una resistencia, de forma que al conectar un elemento entre los dos terminales A y B, la tensión que queda en él y la intensidad que circula son las mismas tanto en el circuito real como en el equivalente.
+El teorema establece cómo escoger (para maximizar la transferencia de potencia) la resistencia de carga, una vez que la resistencia de fuente ha sido fijada, no lo contrario. No dice cómo escoger la resistencia de fuente, una vez que la resistencia de carga ha sido fijada. Dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.
 
-El teorema de Thevenin es uno de los enunciados básicos de la teoría de circuitos. A través de este, es posible calcular y simplificar un sistema eléctrico. Aplicando este teorema, se puede convertir un circuito complejo, el cual cuenta con dos terminal, a uno simple, compuesto por una sola fuente de voltaje en serie con una resistencia.
+Cualquier circuito o fuente de alimentación posee una resistencia interna. Si consideramos que el valor de la tensión y de la resistencia interna permanecen constantes, podemos calcular cuándo la potencia entregada a la carga es máxima. Esto ocurre cuando la resistencia de carga es igual a la resistencia interna de la fuente.
 
-En la teoría de circuitos, el teorema de Thevenin es uno de los postulados que más se suele aplicar, ya que ofrece  mayores facilidades al momento de trabajar con circuitos complejos:
 
-* Al permitir crear un circuito equivalente de uno más grande, se puede calcular en menos tiempo el valor de voltajes, la corriente o hasta la potencia de un circuito una vez que se conecta una carga.
-* Es aplicable a cualquier elemento del circuito, siempre que este cuente con una fuente independiente.
-* Es posible encontrar un circuito equivalente simple hasta del circuito más complejo.
 
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/11.jpg)
+Ri = Resistencia interna [Ω]
+RL = Resistencia de carga [Ω]
 
-Fig 1. Demostración de Thévenin.
+Si la resistencia de carga es más baja que la interna, aumenta la corriente por el circuito pero la resistencia interna en serie disipa más potencia (al estar en la misma rama la corriente que pasa por ambas es la misma y por lo tanto la resistencia de mayor valor disipa mayor potencia).
 
-* Calcular la resistencia de Thévenin:
-Para obtener el valor de la resistencia de Thevenin (RTH), es necesario realizar reemplazar cada una de las fuentes de tensión que integran el circuito original a través de un cortocircuito, mientras que en el caso de las fuentes de corriente pasarán a ser circuito abierto. A partir de aquí se procede a calcular la resistencia total del circuito. En el momento en que se vaya a realizar el cálculo de la resistencia de Thevenin, se pueden usar diversos métodos. El más común es agrupando las resistencias en paralelo, transformándolas en una sola. De esta manera, el circuito equivalente solo deberá contener resistencias en serie. Estas deberán ser sumadas, lo que nos dará como resultado la resistencia de Thevenin. Si estamos ante un circuito de corriente alterna, entonces será necesario realizar el cálculo de la impedancia equivalente.
-
-* Calcular la tensión de Thévenin: 
-En el circuito original se calcula la tensión existente entre los puntos A y B. La mejor manera es realizando la suma y resta de los valores de las fuentes de tensión. Lo mismo será con las caídas de tensión en las resistencias, pero aplicando en este caso las leyes de Kirchhoff, la ley de ohm u otro método válido para el procedimiento.
-
-Pasos para aplicar el teorema de Thévenin
-
-Cuando se construye un circuito equivalente de Thevenin, es posible realizar cálculos más sencillos y en menos tiempo que al trabajar con el circuito completo original. Para lograr aplicar el teorema correctamente, se deben realizar estos pasos:
-
-* Al eliminar las fuentes de alimentación del circuito original, será posible encontrar la resistencia de Thevenin. Luego se deberá calcular el valor de la resistencia total que existe entre los punto A y B donde se encuentre conectada la resistencia de carga.
-* Para el caso de hallar la tensión de Thevenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde esta se encontraba.
-* Construye el circuito equivalente utilizando la tensión de Thevenin y la resistencia de Thevenin en serie. Conecta la resistencia de carga entre los puntos de conexión abiertos de este circuito.
-* Utilizando las reglas de circuitos en serie, se analiza la tensión y corriente de la resistencia de carga.
+Si la resistencia de carga es más alta, disipa mayor potencia que la resistencia interna, pero disminuye la corriente total de tal forma de ser menor a la que circula cuando ambas resistencias son del mismo valor y por lo tanto la potencia entregada a la carga es menor.
 
 4. DIAGRAMAS
 
