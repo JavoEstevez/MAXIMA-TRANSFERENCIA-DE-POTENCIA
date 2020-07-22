@@ -36,7 +36,7 @@ Si la resistencia de carga es más alta, disipa mayor potencia que la resistenci
 
 Circuito Eléctrico
 
-![](https://github.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/blob/master/Img/DIAGRAMA.jpg)
+![](https://github.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/blob/master/Img/Captura.JPG)
 
 Fig 2. Diagrama del circuito eléctrico a realizar.
 
