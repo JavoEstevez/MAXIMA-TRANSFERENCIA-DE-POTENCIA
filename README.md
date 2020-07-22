@@ -42,11 +42,9 @@ Fig 2. Diagrama del circuito eléctrico a realizar.
 
 Descripción del circuito
 
-* En el diagrama se observa dos fuentes independientes de voltaje.
-* Además, dentro del circuito se aprecia 5 resistencias medidas en KOhms y Ohms.
-* Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la práctica reconocemos 3 nodos principales.
-* Se tiene que la resistencia de 0.56 KOhm forma nodo con la resistencia de 4.7 KOhm y la fuente de 2V. La resistencia de 0.33 KOhm forma un nodo con la resistencia de 0.1 KOhm y con la fuente de voltaje de 2V. La resistenica de 0.1 KOhm forma un nodo con la de 1KOhm. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
-* Además se puede identificar 3 mallas, que para el análisis se denotará como I1, I2, I3 todas en sentido de las manecillas del reloj(Anexos).
+* En el diagrama se observa una fuente independiente de voltaje.
+* Además, dentro del circuito se aprecia 1 resistencia de 1.2KOhms y una Rl.
+
 
 Circuito Eléctrico hecho en Tinkercad
 
