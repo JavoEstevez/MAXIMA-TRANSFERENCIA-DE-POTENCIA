@@ -6,13 +6,12 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 2. OBJETIVOS
 
-* Aplicar los conceptos teóricos del teorema Thévenin, mediante la realización de la practica en el simulador TINKERCAD, para la resolución o análisis de los circuitos con el fin de encontrar los valores la fuente y la resistencias llamadas como (Thévenin).
+* Determinar experimentalmente la condición necesaria para hallar la Máxima Transferencia de Potencia de un circuito eléctrico.
 
-* Encontrar un circuito equivalente de manera simple y rápida aun en circuitos de naturaleza complicados, tomando en cuenta que al menos se debe tener una fuente independiente.
+* Conocer los fundamentos básicos de este teorema.
 
-* Comprobar que los resultados de voltaje y corriente calculados son iguales a los medidos en nuestra simulación
+* Analizar el comportamiento de un circuito DC mediante la aplicación del principio de la Máxima Transferencia de Potencia.
 
-* Comparar los porcentajes de error entre el valor calculado y el medido en el simulador TINKERCAD.
 
 3. MARCO TEÓRICO 
 
