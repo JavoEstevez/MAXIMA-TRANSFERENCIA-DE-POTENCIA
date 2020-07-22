@@ -6,13 +6,13 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 2. OBJETIVOS
 
-* El objetivo de este laboratorio es analizar los datos en una carga eléctrica para obtener la optimización del valor de la carga eléctrica que permita la máxima transferencia   depotencia de un circuito a la carga, modelado mediante un equivalente de thévenin
-
 * Conocer los fundamentos básicos del teorema de MTP, y profundizar en los circuitos eléctricos para poder aplicar de manera directa lo estudiado.
 
 * Determinar experimentalmente la condición necesaria para hallar la Máxima Transferencia de Potencia de un circuito eléctrico tomando en cuenta el circuito implementado.
 
 * Analizar el comportamiento de un circuito mediante la aplicación del principio de la Máxima Transferencia de Potencia.
+
+* Analizar los datos en una carga eléctrica para obtener la optimización del valor de la carga eléctrica que permita la máxima transferencia   depotencia de un circuito a la carga, modelado mediante un equivalente de thévenin
 
 * Comparar las medidas de potencia entre las calculadas y las experimentales para encontrar el porcentaje de error. 
 
