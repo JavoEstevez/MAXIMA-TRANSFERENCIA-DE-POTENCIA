@@ -97,7 +97,7 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 8. PORCENTAJE DE ERROR.
 
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Tabla_porcentaje_de_error.png)
+![](https://raw.githubusercontent.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/master/Img/123.JPG)
 
 Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
