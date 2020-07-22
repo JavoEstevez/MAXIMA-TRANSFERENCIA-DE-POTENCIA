@@ -81,18 +81,18 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
-| RL()| Corriente medida (mA) | Voltaje Medido (V)| Potencia calculada experimentalmente(W)|Potencia calculada teóricamente(W)| 
+| RL(Ω)| Corriente medida (mA) | Voltaje Medido (V)| Potencia calculada experimentalmente(W)|Potencia calculada teóricamente(W)| 
 | --    |                 ---- |-------------             |----------------      |--------|
-| 220 |                   10.6| 2.32                   |              |    |
-|470  |                   8.98 |4.22                    |              |    |             
-|680  |                   7.98   | 5.43                  |                 |     |        
-| 820  |                   7.43  | 6.09            |     |
-|1000|                     6.82| 6.82           |       | 
-|1500|                      5.56|8.33       |      |
-|1800|                       5| 9 |          | 
-|2200|                     4.41| 9.71       |      | 
-|3900|                      2.94| 11.5       |        | 
-|4700|                      2.54|11.9|       |        | 
+| 220 |                   10.6| 2.32                   | 0.025             |    |
+|470  |                   8.98 |4.22                    | 0.039             |    |             
+|680  |                   7.98   | 5.43                  |0.043                 |     |        
+| 820  |                   7.43  | 6.09            | 0.045    |             |
+|1000|                     6.82| 6.82           |0.047       |           |
+|1500|                      5.56|8.33       |0.046      |         |
+|1800|                       5| 9 |  0.045|        | 
+|2200|                     4.41| 9.71       | 0.043|     | 
+|3900|                      2.94| 11.5       |   0.034|     | 
+|4700|                      2.54|11.9|       | 0.030|       | 
 
 8. PORCENTAJE DE ERROR.
 
@@ -100,28 +100,19 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
-9. PREGUNTAS
-
-* ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
-respuesta
-
-* ¿Cuál fue la potencia máxima en RL? __________________ Watts
-
-*  ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
-
-10. CONCLUSIONES 
+9. CONCLUSIONES 
 
  
-11. RECOMENDACIONES 
+10. RECOMENDACIONES 
 
 
-12. CRONOGRAMA
+11. CRONOGRAMA
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Cronograma.png)
 
-13. BIBLIOGRAFÍA 
+12. BIBLIOGRAFÍA 
 
 Alexander, C, & Sadiku, M. (2006). Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw Hill.
 
