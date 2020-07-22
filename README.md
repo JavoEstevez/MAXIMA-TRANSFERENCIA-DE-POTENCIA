@@ -22,7 +22,7 @@ El teorema establece cómo escoger (para maximizar la transferencia de potencia)
 
 Cualquier circuito o fuente de alimentación posee una resistencia interna. Si consideramos que el valor de la tensión y de la resistencia interna permanecen constantes, podemos calcular cuándo la potencia entregada a la carga es máxima. Esto ocurre cuando la resistencia de carga es igual a la resistencia interna de la fuente.
 
-
+![](https://raw.githubusercontent.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/master/Img/transferencia.jpg)
 
 Ri = Resistencia interna [Ω]
 RL = Resistencia de carga [Ω]
