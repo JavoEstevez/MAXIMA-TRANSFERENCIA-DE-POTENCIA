@@ -12,7 +12,7 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 * Analizar el comportamiento de un circuito mediante la aplicación del principio de la Máxima Transferencia de Potencia.
 
-* Comparar las medidas de potencia para encontrar el porcentaje de error. 
+* Comparar las medidas de potencia entre las calculadas y las experimentales para encontrar el porcentaje de error. 
 
 3. MARCO TEÓRICO 
 
