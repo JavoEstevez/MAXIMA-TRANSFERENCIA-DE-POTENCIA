@@ -117,10 +117,11 @@ respuesta
 1200 Ω
 
 10. CONCLUSIONES 
-
+* Se puede concluir que la transferencia máxima de potencia en un circuito va a ser cuando la resistencia RL sea igual a la resistencia de Thevenin o en nuestro caso, cuando sea igual a la resistencia de 1.2kOhms. 
+* La potencia máxima que obtuvimos con las RL específicadas en la guía fue de 0.0465 en la resistencia de 1kOhm, la cual esta cerca de los valores de la potencia en la resiestencia de 1.2kOhms.
  
 11. RECOMENDACIONES 
-
+* Se recomienda cambiar los colores de los cables por negro y rojo para poder identificar los polos positivos y negativos de nuestro circuito y que no exista confusión a la hora de conectar y medir nuestras resistencias RL 
 
 12. CRONOGRAMA
 
