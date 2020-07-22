@@ -118,13 +118,17 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Tabla_Mediciones_generales.png)
-
-Tabla 1. Comprobación del Teorema de Thévenin.
-
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Tabla_circuito_Th%C3%A9venin.png)
-
-Tabla 2. Valores del circuito equivalente de Thévenin.              
+| RL()| Corriente medida (mA) | Voltaje Medido (V)| Potencia calculada experimentalmente(W)|Potencia calculada teóricamente(W)| 
+| --    |                 ---- |-------------             |----------------      |--------|
+| 220 |                   10.6| 2.32                   |              |    |
+|470  |                   8.98 |4.22                    |              |    |             
+|680  |                   7.98   | 5.43                  |                 |     |        | 820  |                   7.43  | 6.09            |     |
+|1000|                     6.82| 6.82           |       | 
+|1500|                      5.56|8.33       |      |
+|1800|                       5| 9 |          | 
+|2200|                     4.41| 9.71       |      | 
+|3900|                      2.94| 11.5       |        | 
+|4700|                      2.54|11.9|       |        | 
 
 8. PORCENTAJE DE ERROR.
 
