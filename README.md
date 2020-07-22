@@ -127,7 +127,7 @@ respuesta
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Cronograma.png)
+![](https://github.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/blob/master/Img/Cronograma.png)
 
 13. BIBLIOGRAFÍA 
 
