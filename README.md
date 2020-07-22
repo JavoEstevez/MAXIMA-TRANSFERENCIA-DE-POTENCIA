@@ -100,19 +100,28 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
-9. CONCLUSIONES 
+9. PREGUNTAS
+
+* ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta
+
+* ¿Cuál fue la potencia máxima en RL? __________________ Watts
+
+*  ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+
+10. CONCLUSIONES 
 
  
-10. RECOMENDACIONES 
+11. RECOMENDACIONES 
 
 
-11. CRONOGRAMA
+12. CRONOGRAMA
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Cronograma.png)
 
-12. BIBLIOGRAFÍA 
+13. BIBLIOGRAFÍA 
 
 Alexander, C, & Sadiku, M. (2006). Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw Hill.
 
