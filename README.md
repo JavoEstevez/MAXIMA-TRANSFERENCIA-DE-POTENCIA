@@ -84,7 +84,7 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
-| RL()| Corriente medida (mA) | Voltaje Medido (V)| Potencia calculada experimentalmente(W)|Potencia calculada teóricamente(W)| 
+| RL(Ω)| Corriente medida (mA) | Voltaje Medido (V)| Potencia calculada experimentalmente(W)|Potencia calculada teóricamente(W)| 
 | --    |                 ---- |-------------             |----------------      |--------|
 | 220 |                   10.6| 2.32    |     0.0246         | 0.0245   |
 |470  |                   8.98 |4.22    |     0.0379         | 0.0389   |               
@@ -108,7 +108,7 @@ Tabla 3. Porcentaje de error al momento de realizar la práctica.
 * ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta
 
-
+En este caso no se cumple el teorema de Máxima transferencia de Potencia debido a que ninguna resistencia de carga (RL) era igual en valor en Ohmios a la resistencia de la fuente fijada de antemano (R=1.2kOhms). 
 
 * ¿Cuál fue la potencia máxima en RL? 
 
