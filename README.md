@@ -134,4 +134,4 @@ Alexander, C, & Sadiku, M. (2006). Fundamentos de Circuitos Eléctricos. 3ra. Ed
 
 Boylestad, R. (2011). Introducción al Análisis de Circuitos.2da. Edición. Pearson.
 
-Dorf, R., & Svoboda, J. (2011). Circuitos eléctricos. México: Alfaomega.
+Dorf, R.., & Svoboda, J. (2011). Circuitos eléctricos. México: Alfaomega.
