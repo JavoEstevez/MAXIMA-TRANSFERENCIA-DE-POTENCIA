@@ -102,15 +102,15 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 * Seleccionamos una placa de pruebas pequeñas (Protoboard).
 
-* Se selecciona y se conecta al protoboard los suministros de energía asignándole el valor de 12 y 2 V.
+* Se selecciona y se conecta al protoboard el suministro de energía asignándole el valor de 15.
 
-* Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 5 de valores de 0.56 KOhm, 4.7 KOhm, .33 KOhm, 0.1 KOhm y 1 KOhm.
+* Escogemos 10 resistencias y las conectamos siguiendo el diagrama del circuito.
 
 * Haciendo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde hace falta.
 
 * Colocamos un multímetro y conectamos en paralelo con el circuito, el color negro es el negativo mientras que el color rojo es el positivo.
 
-* Realizamos las mediciones de volatje y resistencia, aplicando el teorema de Thévenin, pedidas en la guía.
+* Realizamos las mediciones de volatje y resistencia, aplicando el teorema de Máxima Transferencia de Potencia, pedidas en la guía.
 
 * Anotamos los valores obtenidos en las tablas de la guía de laboratorio.
 
