@@ -48,7 +48,7 @@ Descripción del circuito
 
 Circuito Eléctrico hecho en Tinkercad
 
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_TINKERCAD.png)
+![](https://github.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/blob/master/Img/CIRCUITO.jpg)
 
 Fig 3. Implementación del circuito eléctrico en el simulador Tinkercad
 
