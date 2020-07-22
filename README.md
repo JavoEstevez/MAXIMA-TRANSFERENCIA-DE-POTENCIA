@@ -82,18 +82,18 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
-| RL(Ω)| Corriente medida (mA) | Voltaje Medido (V)| Potencia calculada experimentalmente(W)|Potencia calculada teóricamente(W)| 
+| RL()| Corriente medida (mA) | Voltaje Medido (V)| Potencia calculada experimentalmente(W)|Potencia calculada teóricamente(W)| 
 | --    |                 ---- |-------------             |----------------      |--------|
-| 220 |                   10.6| 2.32                   | 0.025             |    |
-|470  |                   8.98 |4.22                    | 0.039             |    |             
-|680  |                   7.98   | 5.43                  |0.043                 |     |        
-| 820  |                   7.43  | 6.09            | 0.045    |             |
-|1000|                     6.82| 6.82           |0.047       |           |
-|1500|                      5.56|8.33       |0.046      |         |
-|1800|                       5| 9 |  0.045|        | 
-|2200|                     4.41| 9.71       | 0.043|     | 
-|3900|                      2.94| 11.5       |   0.034|     | 
-|4700|                      2.54|11.9|    0.030   |       | 
+| 220 |                   10.6| 2.32 |              | 0.024    |
+|470  |                   8.98 |4.22                | 0.0389   |               
+|680  |                   7.98   | 5.43             | 0.04347  |        
+| 820  |                   7.43  | 6.09             | 0.0452   |
+|1000|                     6.82| 6.82               | 0.0465   | 
+|1500|                      5.56|8.33               | 0.0463   |
+|1800|                       5| 9 |                 | 0.045    |
+|2200|                     4.41| 9.71               | 0.0428   | 
+|3900|                      2.94| 11.5              | 0.0337   | 
+|4700|                      2.54|11.9|              | 0.0304   | 
 
 8. PORCENTAJE DE ERROR.
 
