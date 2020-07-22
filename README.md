@@ -25,6 +25,7 @@ Cualquier circuito o fuente de alimentación posee una resistencia interna. Si c
 ![](https://raw.githubusercontent.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/master/Img/transferencia.jpg)
 
 Ri = Resistencia interna [Ω]
+
 RL = Resistencia de carga [Ω]
 
 Si la resistencia de carga es más baja que la interna, aumenta la corriente por el circuito pero la resistencia interna en serie disipa más potencia (al estar en la misma rama la corriente que pasa por ambas es la misma y por lo tanto la resistencia de mayor valor disipa mayor potencia).
