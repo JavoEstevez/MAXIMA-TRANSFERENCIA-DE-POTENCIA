@@ -38,7 +38,7 @@ Circuito Eléctrico
 
 ![](https://github.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/blob/master/Img/Captura.JPG)
 
-Fig 2. Diagrama del circuito eléctrico a realizar.
+Fig 2. Circuito para comprobar el Teorema de la MTP
 
 Descripción del circuito
 
