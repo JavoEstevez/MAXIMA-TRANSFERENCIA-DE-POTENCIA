@@ -106,9 +106,15 @@ Tabla 3. Porcentaje de error al momento de realizar la práctica.
 * ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta
 
-* ¿Cuál fue la potencia máxima en RL? __________________ Watts
 
-*  ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+
+* ¿Cuál fue la potencia máxima en RL? 
+
+0.0469 Watts
+
+*  ¿Para qué valor de RL se obtiene la MTP? 
+
+1200 Ω
 
 10. CONCLUSIONES 
 
