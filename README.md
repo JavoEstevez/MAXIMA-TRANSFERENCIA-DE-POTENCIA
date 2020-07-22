@@ -92,7 +92,7 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 |1800|                       5| 9 |  0.045|        | 
 |2200|                     4.41| 9.71       | 0.043|     | 
 |3900|                      2.94| 11.5       |   0.034|     | 
-|4700|                      2.54|11.9|       | 0.030|       | 
+|4700|                      2.54|11.9|      0.030 |       | 
 
 8. PORCENTAJE DE ERROR.
 
