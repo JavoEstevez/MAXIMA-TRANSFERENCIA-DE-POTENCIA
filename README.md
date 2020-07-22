@@ -97,7 +97,7 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 8. PORCENTAJE DE ERROR.
 
-![](https://raw.githubusercontent.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/master/Img/123.JPG)
+![](https://raw.githubusercontent.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/master/Img/1234.JPG)
 
 Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
