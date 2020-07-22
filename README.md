@@ -90,7 +90,7 @@ Fig 9. Implementación del circuito eléctrico en el simulador Tinkercad. Medici
 
 5. LISTAS DE COMPONENTES
 
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Lista_componentes.png)
+![](https://github.com/JavoEstevez/MAXIMA-TRANSFERENCIA-DE-POTENCIA/blob/master/Img/COMPONENTES.jpg)
 
 Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
