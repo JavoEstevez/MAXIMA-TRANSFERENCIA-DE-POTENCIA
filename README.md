@@ -84,7 +84,7 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 | RL()| Corriente medida (mA) | Voltaje Medido (V)| Potencia calculada experimentalmente(W)|Potencia calculada teóricamente(W)| 
 | --    |                 ---- |-------------             |----------------      |--------|
-| 220 |                   10.6| 2.32                   |              |    |
+| 220 |                   10.6| 2.32 |              | 0.024    |
 |470  |                   8.98 |4.22                    |              |    |             
 |680  |                   7.98   | 5.43                  |                 |     |        
 | 820  |                   7.43  | 6.09            |     |
