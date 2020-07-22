@@ -6,6 +6,8 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 2. OBJETIVOS
 
+* El objetivo de este laboratorio es analizar los datos en una carga eléctrica para obtener la optimización del valor de la carga eléctrica que permita la máxima transferencia   depotencia de un circuito a la carga, modelado mediante un equivalente de thévenin
+
 * Conocer los fundamentos básicos del teorema de MTP, y profundizar en los circuitos eléctricos para poder aplicar de manera directa lo estudiado.
 
 * Determinar experimentalmente la condición necesaria para hallar la Máxima Transferencia de Potencia de un circuito eléctrico tomando en cuenta el circuito implementado.
@@ -117,11 +119,20 @@ respuesta
 1200 Ω
 
 10. CONCLUSIONES 
+
 * Se puede concluir que la transferencia máxima de potencia en un circuito va a ser cuando la resistencia RL sea igual a la resistencia de Thevenin o en nuestro caso, cuando sea igual a la resistencia de 1.2kOhms. 
+
 * La potencia máxima que obtuvimos con las RL específicadas en la guía fue de 0.0465 en la resistencia de 1kOhm, la cual esta cerca de los valores de la potencia en la resiestencia de 1.2kOhms.
+
+* Cuando es importante obtener la máxima transferencia de potencia, la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje
+
+
  
 11. RECOMENDACIONES 
+
 * Se recomienda cambiar los colores de los cables por negro y rojo para poder identificar los polos positivos y negativos de nuestro circuito y que no exista confusión a la hora de conectar y medir nuestras resistencias RL 
+
+* Tener claro, el concepto y la práctica acerca de  los circuitos equivalentes de Thevenin ya que son importantes para el análisis de circuitos electrónicos y eléctricos, y poder usar el teorema de máxima transferencia de potencia. Su utilidad va más allá de  calcular un circuito equivalente, al proporcionar información muy útil de los parámetros  (en la resistencia de carga), corriente, voltaje y potencia.
 
 12. CRONOGRAMA
 
